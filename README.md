@@ -2,6 +2,8 @@
 
 - [Requirements](#requirements)
 - [Setup](#setup)
+- [Challenge 1](#challenge-1)
+- [Submission](#submission)
 
 ## Requirements
 
@@ -17,7 +19,7 @@ You will need the following to complete this coding challenge:
 
 ## Challenge 1
 
-The leadership team has asked us to graph total monthly sales over time. Write a query that returns the data we need to make this visualization.
+The leadership team has asked us to graph total monthly sales over time. **Write a query that returns the data we need to complete this request.**
 
 ![chart-example](readme_assets/chart_example.png)
 
