@@ -25,6 +25,14 @@ The leadership team has asked us to graph total monthly sales over time. **Write
 
 *The numbers from this chart may not necessarily match those from the WideWorldImporters database sample, this is just an example.*
 
+## Challenge 2
+
+What is the fastest growing customer category in Q1 2016 (compared to same quarter sales in the previous year)? What is the growth rate? **Please include your SQL query when submitting.**
+
+## Challenge 3
+
+
+
 ## Submission
 
 1. Make your answers available to us, ideally in a public Git repository. You
