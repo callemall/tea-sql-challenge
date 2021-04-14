@@ -1,10 +1,5 @@
 # Text-Em-All SQL Challenge
 
-- [Requirements](#requirements)
-- [Setup](#setup)
-- [Challenge 1](#challenge-1)
-- [Submission](#submission)
-
 ## Requirements
 
 You will need the following to complete this coding challenge:
