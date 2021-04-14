@@ -22,14 +22,14 @@ The leadership team has asked us to graph total monthly sales over time. **Write
 
 ## Challenge 2
 
-What is the fastest growing customer category in Q1 2016 (compared to same quarter sales in the previous year)? What is the growth rate? **Please include your SQL query when submitting.**
+What is the fastest growing customer category in Q1 2016 (compared to same quarter sales in the previous year)? What is the growth rate?
 
 ## Challenge 3
 
 Write a query to return the list of suppliers that WWI has purchased from, along with # of invoices paid, # of invoices still outstanding, and average invoice amount.
 
 ## Challenge 4
-Using "unit price" and "recommended retail price", which item in the warehouse has the lowest gross profit amount? Which item has the highest? What is the **median** gross profit across all items in the warehouse? **Please include your SQL query when submitting.**
+Using "unit price" and "recommended retail price", which item in the warehouse has the lowest gross profit amount? Which item has the highest? What is the **median** gross profit across all items in the warehouse?
 
 ## Submission
 
@@ -38,3 +38,4 @@ Using "unit price" and "recommended retail price", which item in the warehouse h
    chance this will be blocked by email filters. In that case, be prepared to use another
    method, such as Dropbox or Google Drive.
 2. Please include estimated time used to complete the challenge.
+3. Please include all of your SQL queries.
