@@ -18,7 +18,7 @@ The leadership team has asked us to graph total monthly sales over time. **Write
 
 ![chart-example](readme_assets/chart_example.png)
 
-*The numbers from this chart may not necessarily match those from the WideWorldImporters database sample, this is just an example.*
+*The numbers from this chart may not match those from the WideWorldImporters database sample, this is just an example.*
 
 ## Challenge 2
 
@@ -29,7 +29,7 @@ What is the fastest growing customer category in Q1 2016 (compared to same quart
 Write a query to return the list of suppliers that WWI has purchased from, along with # of invoices paid, # of invoices still outstanding, and average invoice amount.
 
 ## Challenge 4
-Using "unit price" and "recommended retail price", which item in the warehouse has the lowest gross profit amount? Which item has the highest? What is the **median** gross profit across all items in the warehouse?
+Considering sales volume, which item in the warehouse has the lowest gross profit amount? Which item has the highest? What is the **median** gross profit across all items in the warehouse?
 
 ## Submission
 
