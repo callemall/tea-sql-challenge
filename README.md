@@ -26,7 +26,7 @@ What is the fastest growing customer category in Q1 2016 (compared to same quart
 
 ## Challenge 3
 
-Write a query to return the list of suppliers that WWI has purchased from, along with # of invoices paid, # of invoices still outstanding, and average invoice amount.
+Write a query to return the list of suppliers that World Wide Importers has purchased from, along with # of invoices paid, # of invoices still outstanding, and average invoice amount.
 
 ## Challenge 4
 Considering sales volume, which item in the warehouse has the lowest gross profit amount? Which item has the highest? What is the **median** gross profit across all items in the warehouse?
